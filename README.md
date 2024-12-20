@@ -17,8 +17,8 @@ Conceitos abordados:
 Para rodar o projeto
 
 Instale as dependências com:
-# npm install 
+$ npm install 
 
 inicialize o projeto com:
-# npm run dev
+$ npm run dev
 
