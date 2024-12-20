@@ -1,7 +1,7 @@
 {
   "homepage": "https://lfalvespe.github.io/ecommerce-react-bootstrap",
 
-  "name": "catalogo",
+  "name": "ecommerce-react-bootstrap",
   "private": true,
   "version": "0.0.0",
   "type": "module",
