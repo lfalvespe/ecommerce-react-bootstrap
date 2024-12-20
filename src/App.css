@@ -1,0 +1,12 @@
+.active {
+    color: #35b3b8;
+}
+
+nav a {
+    padding: 2px 4px;
+    color: #1f1f1f;
+    box-shadow: 0 0 5px #4bf4fa9a;
+    border-radius: 1px 5px;
+    background-color: #e7e3e3;
+}
+
